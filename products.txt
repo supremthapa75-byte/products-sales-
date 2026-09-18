@@ -1,0 +1,11 @@
+Vitamin C Serum, Garnier,365,1000.00, France
+Skin Cleanser, Cetaphil,861,280.00, Switzerland
+Sunscreen, Aqualogica,512,700.00, India
+FaceWash,Himalaya,350,150.00,India
+Moisturizer,Ponds,230,200.00,USA
+Sunscreen,Neutrogena,225,350.00,UK
+cleanser,cetaphil,100,650.00,canada
+facecream,suprem,100,800.00,Nepal
+ash,ash,684,700.00,nepal
+arohancream,suprem,200,349.00,Nepal
+lip balm,garnier,1000,250.00,nepal
